@@ -9,7 +9,7 @@ public class Main {
         Scanner s = new Scanner(System.in);
 
         System.out.println("----------------------------------------------");   //Note for inputs
-        System.out.println("| Note: No symbols like $ and % inside date! |");
+        System.out.println("| Note: No symbols like $ and % inside data! |");
         System.out.println("----------------------------------------------");
         System.out.print("Enter your bill ($): ");
         String money = s.nextLine();
